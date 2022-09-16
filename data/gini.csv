@@ -1,0 +1,163 @@
+﻿Rank,Country,Value,Year
+1,South Africa,63,2014
+2,Namibia,59.1,2015
+3,Suriname,57.9,1999
+4,Zambia,57.1,2015
+5,Central African Republic,56.2,2008
+6,Eswatini,54.6,2016
+7,Colombia,54.2,2020
+8,Mozambique,54,2014
+9,Botswana,53.3,2015
+9,Belize,53.3,1999
+11,Angola,51.3,2018
+12,St. Lucia,51.2,2016
+13,Zimbabwe,50.3,2019
+14,Panama,49.8,2019
+15,Costa Rica,49.3,2020
+16,Brazil,48.9,2020
+16,Congo,48.9,2011
+18,Guatemala,48.3,2014
+19,Honduras,48.2,2019
+20,Ecuador,47.3,2020
+20,Burkina Faso,47.3,2018
+22,Cameroon,46.6,2014
+23,Nicaragua,46.2,2014
+24,Jamaica,45.5,2004
+25,Mexico,45.4,2020
+26,Comoros,45.3,2014
+27,Guyana,45.1,1998
+28,Chile,44.9,2020
+28,Lesotho,44.9,2017
+30,Venezuela,44.8,2006
+31,Peru,43.8,2020
+32,Rwanda,43.7,2016
+33,Bolivia,43.6,2020
+34,Paraguay,43.5,2020
+34,Ghana,43.5,2016
+36,Uganda,42.7,2019
+37,Madagascar,42.6,2012
+38,Cabo Verde,42.4,2015
+38,Togo,42.4,2018
+40,Philippines,42.3,2018
+40,Argentina,42.3,2020
+42,Dem. Rep. Congo,42.1,2012
+43,Papua New Guinea,41.9,2009
+43,Turkey,41.9,2019
+45,Djibouti,41.6,2017
+46,United States,41.5,2019
+47,Malaysia,41.1,2015
+47,Haiti,41.1,2012
+49,Iran,40.9,2019
+50,Turkmenistan,40.8,1998
+50,Kenya,40.8,2015
+52,São Tomé and Principe,40.7,2017
+53,Tanzania,40.5,2018
+54,Bulgaria,40.3,2019
+54,Trinidad and Tobago,40.3,1992
+56,Uruguay,40.2,2020
+57,Dominican Republic,39.6,2020
+58,Morocco,39.5,2013
+59,Sri Lanka,39.3,2016
+60,Tuvalu,39.1,2010
+61,Lao PDR,38.8,2018
+61,El Salvador,38.8,2019
+63,Samoa,38.7,2013
+64,Israel,38.6,2018
+64,Burundi,38.6,2013
+66,Malawi,38.5,2019
+67,China,38.2,2019
+68,Senegal,38.1,2018
+69,Gabon,38,2017
+70,Benin,37.8,2018
+71,Tonga,37.6,2015
+72,Syrian Arab Republic,37.5,2003
+72,Chad,37.5,2018
+74,Bhutan,37.4,2017
+75,Niger,37.3,2018
+75,Indonesia,37.3,2021
+77,Côte d'Ivoire,37.2,2018
+78,Solomon Islands,37.1,2012
+79,Somalia,36.8,2017
+79,Montenegro,36.8,2018
+79,Mauritius,36.8,2017
+82,Yemen,36.7,2014
+83,Mali,36.1,2018
+84,Russia,36,2020
+85,The Gambia,35.9,2015
+86,India,35.7,2011
+86,Sierra Leone,35.7,2018
+86,Vietnam,35.7,2018
+89,Uzbekistan,35.3,2003
+89,Liberia,35.3,2016
+89,Lithuania,35.3,2019
+92,Italy,35.2,2018
+93,Nigeria,35.1,2018
+93,United Kingdom,35.1,2017
+95,Ethiopia,35,2015
+95,Thailand,35,2020
+97,Romania,34.8,2019
+97,Guinea-Bissau,34.8,2018
+97,Nauru,34.8,2012
+100,Serbia,34.5,2019
+100,Latvia,34.5,2019
+100,Georgia,34.5,2020
+103,Spain,34.3,2019
+103,Australia,34.3,2018
+105,Luxembourg,34.2,2019
+105,Sudan,34.2,2014
+107,Tajikistan,34,2015
+108,Jordan,33.7,2010
+109,Canada,33.3,2017
+110,Switzerland,33.1,2018
+110,Greece,33.1,2019
+112,Bosnia and Herzegovina,33,2011
+112,North Macedonia,33,2018
+114,Japan,32.9,2013
+115,Portugal,32.8,2019
+115,Nepal,32.8,2010
+115,Tunisia,32.8,2015
+118,Mongolia,32.7,2018
+119,Mauritania,32.6,2014
+120,France,32.4,2018
+120,Bangladesh,32.4,2016
+122,Vanuatu,32.3,2019
+123,Seychelles,32.1,2018
+124,Lebanon,31.8,2011
+125,Germany,31.7,2018
+126,Egypt,31.5,2017
+127,Korea,31.4,2016
+128,Cyprus,31.2,2019
+129,Malta,31,2019
+130,Albania,30.8,2019
+130,Estonia,30.8,2019
+132,Myanmar,30.7,2017
+132,Fiji,30.7,2019
+134,Ireland,30.6,2018
+135,Poland,30.2,2018
+135,Austria,30.2,2019
+137,Hungary,30,2019
+138,Pakistan,29.6,2018
+138,Guinea,29.6,2018
+140,Iraq,29.5,2012
+141,Sweden,29.3,2019
+142,Netherlands,29.2,2019
+143,Kyrgyz Republic,29,2020
+144,Croatia,28.9,2019
+145,Timor-Leste,28.7,2014
+146,Kiribati,27.8,2019
+146,Kazakhstan,27.8,2018
+148,Norway,27.7,2019
+148,Finland,27.7,2019
+148,Denmark,27.7,2019
+151,Algeria,27.6,2011
+152,Belgium,27.2,2019
+153,Azerbaijan,26.6,2005
+154,Iceland,26.1,2017
+155,Moldova,26,2019
+155,United Arab Emirates,26,2018
+157,Ukraine,25.6,2020
+158,Czech Republic,25.3,2019
+159,Armenia,25.2,2020
+160,Belarus,24.4,2020
+160,Slovenia,24.4,2019
+162,Slovak Republic,23.2,2019
